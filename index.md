@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Terrique's Portfolio
 
 You can use the [editor on GitHub](https://github.com/terrique-huyghue/Practice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
